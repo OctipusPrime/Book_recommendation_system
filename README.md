@@ -22,12 +22,9 @@ Word frequencies saved.
 Words selected.
 
 Preprocessing total: hours 5, minutes: 15, seconds: 44, milliseconds: 971 
-   
-   Creating book_id to entries dictionary: hours 0, minutes: 0, seconds: 27, milliseconds: 155 
-   
-   Creating a keyword to occurrence dictionary: hours 5, minutes: 15, seconds: 17, milliseconds: 55 
-   
-   Limiting to books in reviews: hours 0, minutes: 0, seconds: 0, milliseconds: 761 
+- Creating book_id to entries dictionary: hours 0, minutes: 0, seconds: 27, milliseconds: 155 
+- Creating a keyword to occurrence dictionary: hours 5, minutes: 15, seconds: 17, milliseconds: 55 
+- Limiting to books in reviews: hours 0, minutes: 0, seconds: 0, milliseconds: 761 
 
 Closest book in our library: The Fellowship of the Ring (The Lord of the Rings, #1)
 
@@ -56,12 +53,9 @@ Similar books:
 We found 17 out of 17 similar books (as per Goodreads recommendation).
 
 Look-up time total: hours 0, minutes: 0, seconds: 0, milliseconds: 277 
-	
-	Search: hours 0, minutes: 0, seconds: 0, milliseconds: 11 
-	
-	Lookup: hours 0, minutes: 0, seconds: 0, milliseconds: 196 
-	
-	Sorting: hours 0, minutes: 0, seconds: 0, milliseconds: 63 
+- Search: hours 0, minutes: 0, seconds: 0, milliseconds: 11 
+- Lookup: hours 0, minutes: 0, seconds: 0, milliseconds: 196 
+- Sorting: hours 0, minutes: 0, seconds: 0, milliseconds: 63 
 
 ## Limitations:
 - Preprocessing is quite slow, but only needs to be done once. All the resulting files are saved and the actual lookup 
