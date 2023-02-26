@@ -15,13 +15,16 @@ at https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/home?pli=1
 
 ## Example of an output given 250,000 books and 1,000,000 full text reviews: 
 
-ID to entry created.\n
-Word frequencies saved.\n
-Words selected.\n
+ID to entry created.
+
+Word frequencies saved.
+
+Words selected.
+
 Preprocessing total: hours 5, minutes: 15, seconds: 44, milliseconds: 971 
-	Creating book_id to entries dictionary: hours 0, minutes: 0, seconds: 27, milliseconds: 155 
-	Creating a keyword to occurrence dictionary: hours 5, minutes: 15, seconds: 17, milliseconds: 55 
-	Limiting to books in reviews: hours 0, minutes: 0, seconds: 0, milliseconds: 761 
+   Creating book_id to entries dictionary: hours 0, minutes: 0, seconds: 27, milliseconds: 155 
+   Creating a keyword to occurrence dictionary: hours 5, minutes: 15, seconds: 17, milliseconds: 55 
+   Limiting to books in reviews: hours 0, minutes: 0, seconds: 0, milliseconds: 761 
 
 Closest book in our library: The Fellowship of the Ring (The Lord of the Rings, #1)
 
