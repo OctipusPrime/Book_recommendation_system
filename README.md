@@ -21,7 +21,7 @@ Word frequencies saved.
 
 Words selected.
 
-Preprocessing total: hours 5, minutes: 15, seconds: 44, milliseconds: 971 
+Preprocessing total: hours: 5, minutes: 15, seconds: 44, milliseconds: 971 
 - Creating book_id to entries dictionary: hours 0, minutes: 0, seconds: 27, milliseconds: 155 
 - Creating a keyword to occurrence dictionary: hours 5, minutes: 15, seconds: 17, milliseconds: 55 
 - Limiting to books in reviews: hours 0, minutes: 0, seconds: 0, milliseconds: 761 
@@ -50,7 +50,7 @@ Similar books:
 19. Fantasy of Frost (The Tainted Accords, #1) with rating: 4.21
 20. Senlin Ascends (The Books of Babel, #1) with rating: 4.37
 
-We found 17 out of 17 similar books (as per Goodreads recommendation).
+Found 17 out of 17 similar books (as per Goodreads recommendation).
 
 Look-up time total: hours 0, minutes: 0, seconds: 0, milliseconds: 277 
 - Search: hours 0, minutes: 0, seconds: 0, milliseconds: 11 
