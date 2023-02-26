@@ -58,6 +58,7 @@ Look-up time total: hours 0, minutes: 0, seconds: 0, milliseconds: 277
 - Sorting: hours 0, minutes: 0, seconds: 0, milliseconds: 63 
 
 ## Limitations:
+- Only Fantasy and Supernatural data subset is used to limit the size of used data.
 - Preprocessing is quite slow, but only needs to be done once. All the resulting files are saved and the actual lookup 
     takes less than half a second. 
 - query is a fuzzy search, but would benefit from letting a user select from matches. Given a catalogue of 
