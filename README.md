@@ -15,6 +15,7 @@ at https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/home?pli=1
 
 ## Example of an output given 250,000 books and 1,000,000 full text reviews: 
 
+```
 ID to entry created.
 
 Word frequencies saved.
@@ -56,6 +57,7 @@ Look-up time total: hours 0, minutes: 0, seconds: 0, milliseconds: 277
 - Search: hours 0, minutes: 0, seconds: 0, milliseconds: 11 
 - Lookup: hours 0, minutes: 0, seconds: 0, milliseconds: 196 
 - Sorting: hours 0, minutes: 0, seconds: 0, milliseconds: 63 
+```
 
 ## Limitations:
 - Only Fantasy and Supernatural data subset is used to limit the size of used data.
